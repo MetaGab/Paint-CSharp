@@ -1,0 +1,75 @@
+C:\Users\Gabo Banda\source\repos\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Gabo Banda\source\repos\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Gabo Banda\source\repos\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.AcercaDe.resources
+C:\Users\ITH\Documents\Visual Studio 2017\Projects\Paint\bin\Debug\Paint.exe.config
+C:\Users\ITH\Documents\Visual Studio 2017\Projects\Paint\bin\Debug\Paint.exe
+C:\Users\ITH\Documents\Visual Studio 2017\Projects\Paint\bin\Debug\Paint.pdb
+C:\Users\ITH\Documents\Visual Studio 2017\Projects\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\ITH\Documents\Visual Studio 2017\Projects\Paint\obj\Debug\Paint.AcercaDe.resources
+C:\Users\ITH\Documents\Visual Studio 2017\Projects\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\ITH\Documents\Visual Studio 2017\Projects\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\ITH\Documents\Visual Studio 2017\Projects\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\ITH\Documents\Visual Studio 2017\Projects\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\ITH\Documents\Visual Studio 2017\Projects\Paint\obj\Debug\Paint.exe
+C:\Users\ITH\Documents\Visual Studio 2017\Projects\Paint\obj\Debug\Paint.pdb
+C:\Users\Gabo Banda\source\repos\Paint\bin\Debug\Paint.exe.config
+C:\Users\Gabo Banda\source\repos\Paint\bin\Debug\Paint.exe
+C:\Users\Gabo Banda\source\repos\Paint\bin\Debug\Paint.pdb
+C:\Users\Gabo Banda\source\repos\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Gabo Banda\source\repos\Paint\obj\Debug\Paint.AcercaDe.resources
+C:\Users\Gabo Banda\source\repos\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\Gabo Banda\source\repos\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Gabo Banda\source\repos\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Gabo Banda\source\repos\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Gabo Banda\source\repos\Paint\obj\Debug\Paint.exe
+C:\Users\Gabo Banda\source\repos\Paint\obj\Debug\Paint.pdb
+D:\Paint\bin\Debug\Paint.exe.config
+D:\Paint\bin\Debug\Paint.exe
+D:\Paint\bin\Debug\Paint.pdb
+D:\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\Paint\obj\Debug\Paint.AcercaDe.resources
+D:\Paint\obj\Debug\Paint.Paint.resources
+D:\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\Paint\obj\Debug\Paint.exe
+D:\Paint\obj\Debug\Paint.pdb
+D:\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Paint\bin\Debug\Paint.exe.config
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Paint\obj\Debug\Paint.exe
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Paint\obj\Debug\Paint.pdb
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Paint\bin\Debug\Paint.exe
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Paint\bin\Debug\Paint.pdb
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Paint\obj\Debug\Paint.AcercaDe.resources
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+H:\Paint\bin\Debug\Paint.exe.config
+H:\Paint\obj\Debug\Paint.exe
+H:\Paint\obj\Debug\Paint.pdb
+H:\Paint\bin\Debug\Paint.exe
+H:\Paint\bin\Debug\Paint.pdb
+H:\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+H:\Paint\obj\Debug\Paint.AcercaDe.resources
+H:\Paint\obj\Debug\Paint.Paint.resources
+H:\Paint\obj\Debug\Paint.Properties.Resources.resources
+H:\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Gabo Banda\Dropbox\ISC\3 Semestre\Topicos Avanzados de Programación\Paint\bin\Debug\Paint.exe.config
+C:\Users\Gabo Banda\Dropbox\ISC\3 Semestre\Topicos Avanzados de Programación\Paint\bin\Debug\Paint.exe
+C:\Users\Gabo Banda\Dropbox\ISC\3 Semestre\Topicos Avanzados de Programación\Paint\bin\Debug\Paint.pdb
+C:\Users\Gabo Banda\Dropbox\ISC\3 Semestre\Topicos Avanzados de Programación\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Gabo Banda\Dropbox\ISC\3 Semestre\Topicos Avanzados de Programación\Paint\obj\Debug\Paint.AcercaDe.resources
+C:\Users\Gabo Banda\Dropbox\ISC\3 Semestre\Topicos Avanzados de Programación\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\Gabo Banda\Dropbox\ISC\3 Semestre\Topicos Avanzados de Programación\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Gabo Banda\Dropbox\ISC\3 Semestre\Topicos Avanzados de Programación\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Gabo Banda\Dropbox\ISC\3 Semestre\Topicos Avanzados de Programación\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Gabo Banda\Dropbox\ISC\3 Semestre\Topicos Avanzados de Programación\Paint\obj\Debug\Paint.exe
+C:\Users\Gabo Banda\Dropbox\ISC\3 Semestre\Topicos Avanzados de Programación\Paint\obj\Debug\Paint.pdb

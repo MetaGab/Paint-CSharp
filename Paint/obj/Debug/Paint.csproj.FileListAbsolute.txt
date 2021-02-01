@@ -1,0 +1,11 @@
+C:\Users\Gabo Banda\source\repos\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Gabo Banda\source\repos\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Gabo Banda\source\repos\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Gabo Banda\source\repos\Paint\Paint\obj\Debug\Paint.AcercaDe.resources
